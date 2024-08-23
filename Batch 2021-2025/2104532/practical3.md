@@ -1,0 +1,1 @@
+When designing the user interface (UI) for an Android application, several XML files are typically used. These files define the layout, styles, strings, dimensions, and other aspects of the UI. Here's an overview of the most common XML files:
